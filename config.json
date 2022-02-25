@@ -1,0 +1,9 @@
+{
+	"ip":"sparkkingdom.aternos.me",
+	"port": "21540",
+	"name": "bot server",
+	"auto-night-skip":"true",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
